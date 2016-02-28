@@ -1,0 +1,33 @@
+_repo: Selections-from-the-Principles-of-Philosophy_4391
+contributor:
+  translator:
+    agent_name: Veitch, John
+    birthdate: 1829
+    deathdate: 1894
+    gutenberg_agent_id: '1479'
+    url: http://www.gutenberg.org/2009/agents/1479
+    wikipedia: http://en.wikipedia.org/wiki/John_Veitch
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: Selections from the Principles of Philosophy
+url: http://www.gutenberg.org/ebooks/4391
