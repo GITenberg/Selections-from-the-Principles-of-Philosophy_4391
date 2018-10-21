@@ -1,5 +1,5 @@
 _repo: Selections-from-the-Principles-of-Philosophy_4391
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Veitch, John
@@ -35,5 +35,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'B'
 - !lcsh 'Philosophy'
+- GITenberg
 title: Selections from the Principles of Philosophy
 url: http://www.gutenberg.org/ebooks/4391
